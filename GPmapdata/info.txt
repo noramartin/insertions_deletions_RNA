@@ -1,0 +1,1 @@
+This directory contains the data as csv files. These files were generated with pandas in Python, as detailed in the main directory.
